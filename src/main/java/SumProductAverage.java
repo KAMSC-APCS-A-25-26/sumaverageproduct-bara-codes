@@ -23,7 +23,7 @@ public class SumProductAverage
         double sum, product, average;
 
         // signature
-        System.out.print("Baraa Omaira\nAPCS-A\nLewisArithmetic2.2-2.3\n\n\n");
+        System.out.print("Bara Omaira\nAPCS-A\nLewisArithmetic2.2-2.3\n\n\n");
 
         // ask the user how many times they want to run the program
         System.out.print("How many times would you like to run the program?  ");
